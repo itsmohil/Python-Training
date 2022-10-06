@@ -18,4 +18,3 @@ class myClass:
     @staticmethod
         def m2(self,num):
         print(num)
-
