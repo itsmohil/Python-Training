@@ -16,5 +16,5 @@ class myClass:
     def m1(self):
         print("This is instance method...")
     @staticmethod
-        def m2(self,num):
+    def m2(self,num):
         print(num)
