@@ -18,3 +18,7 @@ class myClass:
     @staticmethod
     def m2(self,num):
         print(num)
+
+mc = myClass()
+mc.m1()
+mc.m2(100,500)
